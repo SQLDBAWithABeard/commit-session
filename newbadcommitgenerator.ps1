@@ -5,7 +5,7 @@ while($x -gt 0){
     $x--
     $commit =   $badcommits | Get-Random
     $filename = '{0}{1}.txt' -f ($commit -replace '.','summat'), $x
-    New-Item -Path S:\data-scotland-repo-for-commit-messages\ -Name $filename -ItemType file
+    New-Item -Name $filename -ItemType file
     git add .
     git commit -m $commit
 }
