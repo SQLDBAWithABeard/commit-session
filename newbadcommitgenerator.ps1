@@ -1,4 +1,4 @@
-$badcommits = '.','added file xyz','.','.','.','.','.','.','added new file','added new files','deleted file','testing a thing','Fixed stuff','Update' ,'Bug fixes' ,'Changes' ,'WIP' ,'asdf','Try this'
+$badcommits = '.','added file xyz','.','.','.','.','.','.','added new file','added new files','deleted file','testing a thing','Fixed stuff','Update' ,'Bug fixes' ,'Changes' ,'WIP' ,'asdf','Try this','Just a test'
 $x = 50
 # loop thorugh x and create a file with a random commit message
 while($x -gt 0){

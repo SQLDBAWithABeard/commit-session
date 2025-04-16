@@ -1,4 +1,5 @@
 Be full of praise and gratitude about the amazing changes
+and thank the Berlin PowerShell user group for their amazing support
 Limit the subject line to 50 characters
 Capitalize the subject/description line
 Do not end the subject line with a period
